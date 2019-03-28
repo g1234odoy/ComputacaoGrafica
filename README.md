@@ -10,4 +10,4 @@ O trabalho "T2" deve ser rodado utilizando o python 2 da seguinte maneira: abrir
 
 "python (nome do arquivo .py da pirâmide e do paralelepípedo) (parâmetro indicando o número de lados) (parâmetro indicando a altura do poliedro)"
 
-O comando acima deve ser executado sem as áspas e os parêntesis. Caso nenhum parâmetro seja passado, as quantidades padrões de lados são 3 (também ocorre se a quantidade de lados passados for menor que 3) e a altura é 2 (também ocorre caso a altura passada seja menor que 2).
+O comando acima deve ser executado sem as áspas e os parêntesis. Caso nenhum parâmetro seja passado, as quantidades padrões de lados são 3 (também ocorre se a quantidade de lados passados for menor que 3) e a altura é 2 (também ocorre caso a altura passada for menor que 2).
