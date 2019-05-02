@@ -11,3 +11,5 @@ O trabalho "T2" deve ser rodado utilizando o python 2 da seguinte maneira: abrir
 "python (nome do arquivo .py da pirâmide e do paralelepípedo) (parâmetro indicando o número de lados) (parâmetro indicando a altura do poliedro)"
 
 O comando acima deve ser executado sem as áspas e os parêntesis. Caso nenhum parâmetro seja passado, as quantidades padrões de lados são 3 (também ocorre se a quantidade de lados passados for menor que 3) e a altura é 2 (também ocorre caso a altura passada for menor que 2).
+
+O trabalho "T3" foi desenvolvido em parceria com Rafaela Andrews; ele deve ser rodado com o dado.png na mesma pasta do arquivo textura.py. Para executar o arquivo, basta usar o python 2: python textura.py
