@@ -2,7 +2,7 @@
 Repositório dos trabalhos de Computação Gráfica de Fernando Godoy
 
 Neste repositório se encontrarão os trabalhos de Computação Gráfica de Fernando Godoy.
-Os trabalhos estão nomeados como: (número do trabalho)_(breve resumo do trabalho)
+Os trabalhos estão nomeados como: (número do trabalho)_(breve resumo do trabalho), com a exceção do Trabalho final (Trabalho_Final)
 
 O trabalho "T2" deve ser rodado utilizando o python 2 da seguinte maneira: abrir o local onde se encontram os arquivos, e executá-los como:
 
