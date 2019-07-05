@@ -14,3 +14,5 @@ O trabalho "T3" deve ser rodado com o dado.png na mesma pasta do arquivo textura
 python textura.py
 
 O trabalho "T4" pode ser rodado normalmente apenas com o comando python esfera.py.
+
+As instruções para o Trabalho Final se encontram no README na sua pasta.
